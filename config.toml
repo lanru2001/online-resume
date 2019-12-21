@@ -69,9 +69,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Terraform/Cloudformation"
         [[params.skills.list.items]]
-        details = "Ansible"
-        [[params.skills.list.items]]
         details = "Docker/Kubernetes"
+        [[params.skills.list.items]]
+        details = "Ansible"
         [[params.skills.list.items]]
         details = "Java/Python/JavaScript/React"
         
@@ -103,7 +103,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2010 - 2011"
         [[params.education.list]]
         degree = "BSc Computer Science"
-        university = "University of Strathclyde, Glasgown"
+        university = "University of Strathclyde, Glasgow"
         dates = "2006 - 2010"
 
 
