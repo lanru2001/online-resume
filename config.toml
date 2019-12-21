@@ -1,8 +1,8 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "http://www.colinbut.com/online-resume/"
 languageCode = "en"
-title = ""
+title = "Colin But online Resume"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
