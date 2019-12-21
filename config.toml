@@ -25,7 +25,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Simon Doe"
-        tagline = "Senior Software Engineer"
+        tagline = "AWS Cloud / DevOps Engineer"
         avatar = "avatar.png"
 
 
@@ -36,20 +36,20 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "London"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "0123 4567 890"
+        text = "07588818156"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
+        text = "colin.but1@hotmail.co.uk"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "www.yourwebsite.com"
+        text = "www.colinbut.com"
 
 
 
@@ -63,19 +63,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/Angular/React/Vue"
+        details = "AWS Cloud"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "Jenkins CI/CD Pipelines"
         [[params.skills.list.items]]
-        details = "Node.js/ASP.NET"
+        details = "Terraform/Cloudformation"
         [[params.skills.list.items]]
-        details = "PostgreSQL/MySQL"
+        details = "Ansible"
         [[params.skills.list.items]]
-        details = "Object-oriented design"
+        details = "Docker/Kubernetes"
         [[params.skills.list.items]]
-        details = "Design and implement database structures"
-        [[params.skills.list.items]]
-        details = "Lead and deliver complex software systems"
+        details = "Java/Python/JavaScript/React"
+        
 
         [[params.skills.list]]
         title = "Professional"
@@ -99,13 +98,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
+        degree = "MEng in Computer Science"
+        university = "University of Strathclyde, Glasgow"
         dates = "2010 - 2011"
         [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "BSc Computer Science"
+        university = "University of Strathclyde, Glasgown"
+        dates = "2006 - 2010"
 
 
 
@@ -140,8 +139,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "English"
         level = "Native"
         [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
+        name = "Chinese (Cantonese)"
+        level = "Native"
 
 
 
@@ -154,13 +153,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Football"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Food"
         [[params.interests.list]]
-        name = "Photography"
+        name = "Gaming"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Sightseeing"
 
 
 
@@ -270,11 +269,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.information.list]]
-        title = "Papers"
+        title = "Certifications/Courses"
         [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
+        details = "2019 · AWS Certified Cloud Practitioner"
         [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
+        details = "2017 · M101J: MongoDB for Java Developers"
+        [[params.information.list.items]]
+        details = "2017 · M001: MongoDB Basics"
+        [[params.information.list.items]]
+        details = "2014 · Oracle Certified Associate, Java SE 7 Programmer"
 
         [[params.information.list]]
         title = "Interests"
@@ -292,16 +295,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/colinbut"
+        title = "Colin But"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "//linkedin.com/in/colinbut"
+        title = "Colin But"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
+        url = "//twitter.com/Colin_But"
+        title = "@Colin_But"
 
 
 
