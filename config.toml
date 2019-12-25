@@ -114,7 +114,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = true
+        enable = false
 
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
@@ -208,25 +208,37 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Consultant"
         dates = "2018 - 2019"
         company = "OpenCredo"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "As an Associate of OpenCredo, providing java development services to work on their client site on a project to help in deliver a platform for a new challenger bank"
 
         [[params.experience.list]]
         title = "Java Developer"
         dates = "2016 - 2018"
         company = "Gamesys"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "Working in the Bingo team "
+        [[params.experience.list.items]]
+        details = "Lorem ipsum dolor sit amet, consectetuer."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
-        title = "Backend Developer"
+        title = "Java Developer"
         dates = "2015 - 2016"
         company = "Solarcentury"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        [[params.experience.list.items]]
+        details = "Lorem ipsum dolor sit amet, consectetuer."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
         title = "Software Engineer"
         dates = "2014 - 2015"
         company = "NHS Digital"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        [[params.experience.list.items]]
+        details = "Lorem ipsum dolor sit amet, consectetuer."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
         title = "Software Engineer"
