@@ -24,7 +24,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
+        name = "Colin But"
         tagline = "AWS Cloud / DevOps Engineer"
         avatar = "avatar.png"
 
@@ -170,7 +170,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        text = "A Senior Software/DevOps Engineer who specialises working on the AWS cloud with a strong varied development background in both backend + frontend. With a broad technical experience accumulated to date allowed me to apply my range of technical skills across numerous business domains.
+
+A Developer turned DevOps Engineer who is passionate about Infrastructure as Code, creating Pipeline as Code and a firm believer in close collaboration between Developers & Operators aiming to help bridge the gap and shorten the overall release cycle.
+
+An effective team member who is very hands-on and takes ownership of business & technical requirements taking them from concept right through to production."
 
 
 
