@@ -188,11 +188,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Credit Agricole, Corporate & Investment Bank"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Deployment automation using Ansible, Python"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "General workflow automation using Python"
         [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
+        details = "CI/CD pipelines creation in Jenkins using Jenkins Pipelines"
+        [[params.experience.list.items]]
+        details = "Continuous Delivery practices proposals"
+        [[params.experience.list.items]]
+        details = "Implementing Continuous Deployment by automating deployment of built applications from Jenkins CI build server to various Dev/Test servers"
+        [[params.experience.list.items]]
+        details = "Centralised monitoring using Elastic (ELK) Stack - ElasticSearch, Logstash, Kibana, Beats"
+        
 
         [[params.experience.list]]
         title = "Java Developer / DevOps Engineer"
@@ -200,9 +207,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "10x Banking"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Actively supporting Java Spring Boot microservices on Kubernetes"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "API integration with 3rd party services (Companies House, Due Diligence) for ‘onboarding’ a business customer onto 10x’s banking platform"
+        [[params.experience.list.items]]
+        details = "Experimenting with Kotlin, CockRoachDB for new microservices"
 
         [[params.experience.list]]
         title = "Software Consultant"
@@ -251,6 +260,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2011 - 2014"
         company = "Thomson Reuters"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        [[params.experience.list.items]]
+        details = "Using Bash Shell Scripting to create scripts that automate deployment of application to on- premise physical bare metal servers."
+        [[params.experience.list.items]]
+        details = "ADeadlock investigations, searching for throughput spikes using low level traditional programming techniques (timing measurements to do code instrumentation, Thread dumps)"
+        [[params.experience.list.items]]
+        details = "Performance Testing, application & database bottlenecks diagnosis"
+        [[params.experience.list.items]]
+        details = "Java JVM heap memory, CPU, Threads, Garbage Collection analysis & fine tuning"
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
         title = "Software Engineer"
@@ -318,10 +337,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "2017 · M001: MongoDB Basics"
         [[params.information.list.items]]
         details = "2014 · Oracle Certified Associate, Java SE 7 Programmer"
-
-        [[params.information.list]]
-        title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
 
 
 
