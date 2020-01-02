@@ -202,14 +202,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
         
 
         [[params.experience.list]]
-        title = "Java Developer / DevOps Engineer"
+        title = "DevOps Engineer"
         dates = "2018 - 2019"
         company = "10x Banking"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        details = "Working in a horizontal cross-functional feature team to help deliver a particular slice of a larger platform domain. Collaborating with both the Developers & Operators/Infrastructure Engineers in various different teams to help bridge the gap between the two disparate discipline."
+        [[params.experience.list.items]]
+        details = "Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile"
+        [[params.experience.list.items]]
+        details = "Doing Infrastructure as Code: coding Terraform configuration to provision AWS resources"
         [[params.experience.list.items]]
         details = "Actively supporting Java Spring Boot microservices on Kubernetes"
         [[params.experience.list.items]]
         details = "API integration with 3rd party services (Companies House, Due Diligence) for ‘onboarding’ a business customer onto 10x’s banking platform"
+        [[params.experience.list.items]]
+        details = "Doing a PoC for doing Consumer-Driven-Contract (CDC) Testing using Pact"
+        [[params.experience.list.items]]
+        details = "Advanced Routing with a Service Mesh in LinkerD for implemting Blue/Green Deployments"
         [[params.experience.list.items]]
         details = "Experimenting with Kotlin, CockRoachDB for new microservices"
 
@@ -225,7 +233,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Java Developer"
         dates = "2016 - 2018"
         company = "Gamesys"
-        details = "Working in the Bingo team "
+        details = "Working in the Bingo Product Development team to support and maintain an online Bingo game where the whole team was responsible for both the frontend UI development and also providing the backend core bingo gaming engine. As a backend engineer I was mainly responsible for developing new business features as add-ons to the existing functionality of the bingo engine. Additionally, creating and developing new in-house scheduling tool (both frontend & backend) for scheduling bingo games."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
         [[params.experience.list.items]]
