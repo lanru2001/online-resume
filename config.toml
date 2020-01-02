@@ -184,9 +184,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "DevOps Engineer"
-        dates = "2019 - Present"
+        dates = "2019 - 2020"
         company = "Credit Agricole, Corporate & Investment Bank"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        details = "Working in the CVA/CCC team to perform DevOps duties around the Bank's core CVA trading applications that peforms trading simulations. In addition, assisting with the migration of legacy monolithic applications that was running on JBoss/Tomcat application servers/web containers to running on modern infrastructure, i.e. Docker containers operting within the Kubernetes cluster and providing adhoc bug fixes & business feature developments."
         [[params.experience.list.items]]
         details = "Deployment automation using Ansible, Python"
         [[params.experience.list.items]]
@@ -218,6 +218,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2018 - 2019"
         company = "OpenCredo"
         details = "As an Associate of OpenCredo, providing java development services to work on their client site on a project to help in deliver a platform for a new challenger bank"
+        [[params.experience.list.items]]
+        details = "AWS, Java 8, Spring Boot, microservices, Kotlin, Docker, Kubernetes, Terraform, EC2, ECS, EKS, RDS, LinkerD, Pact Contract Testing"
 
         [[params.experience.list]]
         title = "Java Developer"
@@ -254,6 +256,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2014 - 2014"
         company = "NHS Digital"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
         title = "Software Engineer"
@@ -301,17 +309,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
+        title = "Microservice AWS Demo"
         meta = "Open Source"
         tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
 
         [[params.projects.list]]
-        title = "Project Sed Fringilla"
+        title = "Snowman"
         meta = "Open Source"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
         [[params.projects.list]]
-        title = "Project Praesent"
+        title = "Sales Order System"
         meta = "Open Source"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
