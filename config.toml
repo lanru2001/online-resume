@@ -291,7 +291,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2011 - 2014"
         company = "Bjss"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "A Software Engineer participating in different projects for multiple clients being involved in throughout the whole Software Development lifecycle (SDLC)."
 
         [[params.experience.list]]
         title = "Web Developer"
@@ -303,7 +303,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "C# Developer"
         dates = "2009 - 2009"
         company = "Sciencesoft"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "A summer internship where I was in a small team of three fellow interns to work on an automation test suite for testing the functional features of the company's core suite of products which were a series of different applications that performs modelling for oil and gas energy simulations."
 
 
 
