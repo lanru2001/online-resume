@@ -376,6 +376,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-twitter-square"
         url = "//twitter.com/Colin_But"
         title = "@Colin_But"
+        [[params.social.list]]
+        icon = "fab fa-medium"
+        url = "//medium.com/@Colin_But"
+        title = "@Colin_But"
 
 
 
