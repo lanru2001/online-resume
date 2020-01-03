@@ -243,7 +243,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Java Developer"
         dates = "2015 - 2016"
         company = "Solarcentury"
-        details = "Working in a small in-house development team developing an online task management & e-commmerce web portal for IKEA which was integrated into thier website. The developed system manages the lifecycles of solar panels from production to sales incl allowing the public users to purchase solar panels online. Core activities resolved around doing backend Java development with minor frontend work."
+        details = "Working in a small in-house development team developing an online task management & e-commmerce web portal for IKEA which was integrated into thier website. The developed system manages the lifecycles of solar panels from production to sales incl. allowing the public users to purchase solar panels online. Core activities resolved around doing backend Java development with minor frontend work."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
         [[params.experience.list.items]]
@@ -279,7 +279,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Using Bash Shell Scripting to create scripts that automate deployment of application to on- premise physical bare metal servers."
         [[params.experience.list.items]]
-        details = "ADeadlock investigations, searching for throughput spikes using low level traditional programming techniques (timing measurements to do code instrumentation, Thread dumps)"
+        details = "Deadlock investigations, searching for throughput spikes using low level traditional programming techniques (timing measurements to do code instrumentation, Thread dumps)"
         [[params.experience.list.items]]
         details = "Performance Testing, application & database bottlenecks diagnosis"
         [[params.experience.list.items]]
