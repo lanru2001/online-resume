@@ -275,7 +275,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2011 - 2014"
         company = "Thomson Reuters"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "Working in a project focused team of 20+ people offsite on Bjss's development centre for Thomson Reuters on their backend New Matching Host (NMH) which is a real-time low latency multithreaded high availability FX trading host system for matching traders deals. From doing operations & infrastructure type tasks in setting up/provisioning bare-metal servers, to fixing defects, non-functional testing, performance testing, administrating databases, implementing in-house utility tools, testing tools, trading tools."
         [[params.experience.list.items]]
         details = "Using Bash Shell Scripting to create scripts that automate deployment of application to on- premise physical bare metal servers."
         [[params.experience.list.items]]
