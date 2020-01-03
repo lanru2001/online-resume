@@ -263,7 +263,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2014 - 2014"
         company = "NHS Digital"
-        details = "Within a "DevOps" focused project team of 40+ people, assisting with the delivery of NHS Spine II which is a complete-rewrite of NHS's legacy backend integration messaging system (Spine I). Prioritization of automated peformance testing using Grinder (a Java Load Testing tool) with test scripts implemented using Jython (a Java implementation of Python). System monitoring and observation of system's performance using Splunk monitoring tool."
+        details = "Within a 'DevOps' focused project team of 40+ people, assisting with the delivery of NHS Spine II which is a complete-rewrite of NHS's legacy backend integration messaging system (Spine I). Prioritization of automated peformance testing using Grinder (a Java Load Testing tool) with test scripts implemented using Jython (a Java implementation of Python). System monitoring and observation of system's performance using Splunk monitoring tool."
         [[params.experience.list.items]]
         details = "Aenean commodo ligula eget dolor."
         [[params.experience.list.items]]
