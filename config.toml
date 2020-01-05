@@ -284,8 +284,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Performance Testing, application & database bottlenecks diagnosis"
         [[params.experience.list.items]]
         details = "Java JVM heap memory, CPU, Threads, Garbage Collection analysis & fine tuning"
-        [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
         title = "Software Engineer"
@@ -297,7 +295,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Web Developer"
         dates = "2010 - 2011"
         company = "Mobile Velocity"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey."
+        [[params.experience.list.items]]
+        details = "Developed client side of a mobile web application using a combination of various front end technologies - HTML5, CSS, JavaScript (JQuery, MooTools, Prototype.js), JSON, XML"
+        [[params.experience.list.items]]
+        details = "Actively engaged with a 3rd Party technology consortium which included a former W3C panel member for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
+        [[params.experience.list.items]]
+        details = "Developed custom server side content management platform using PHP via PHP frameworks using both Symfony & Codeigniter"
+        [[params.experience.list.items]]
+        details = "Designed and developed company’s website in HTML, successfully deployed on an Apache Web Server"
 
         [[params.experience.list]]
         title = "C# Developer"
