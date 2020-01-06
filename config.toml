@@ -325,7 +325,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Microservice AWS Demo"
         meta = "Open Source"
-        tagline = "A complete demo project containing a collection of smaller individual demo projects that showcases various methods of building a microservice (in any programming language) and running it on the various different AWS compute services."
+        tagline = "A complete demo project containing a collection of smaller individual demo projects that showcases various methods of building a microservice (in any programming language - currently only Java & NodeJs) and running it on the various different AWS compute services (EC2 non-containerized, EC2 with Docker, ECS, ECS Fargate, EKS, Elastic Beanstalk)."
 
         [[params.projects.list]]
         title = "Snowman"
