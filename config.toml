@@ -325,17 +325,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Microservice AWS Demo"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        tagline = "A complete demo project containing a collection of smaller individual demo projects that showcases various methods of building a microservice (in any programming language) and running it on the various different AWS compute services."
 
         [[params.projects.list]]
         title = "Snowman"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "A demo project showing a typical traditional monolithic enterprise scale application. Showcasing numerous features incl. transactions, caching, database migration, scheduling, messaging, Restful web services, database access, enterprise integration, scalability, clustering, high availability, software architecture, enterprise application architecture."
 
         [[params.projects.list]]
         title = "Sales Order System"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "Sales Order System is one of my earliest pet project of mine which originally spawn from an idea/application I worked on whilst working for Solarcentury. Project demontrates a very simple full stack Java Spring Boot application using JavaEE technologies in the backend with JSP serving up HTML, CSS, with JS, JQuery on the frontend."
 
 
 
