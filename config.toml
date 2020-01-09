@@ -235,9 +235,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Gamesys"
         details = "Working in the Bingo Product Development team to support and maintain an online Bingo game where the whole team was responsible for both the frontend UI development and also providing the backend core bingo gaming engine. As a backend engineer I was mainly responsible for developing new business features as add-ons to the existing functionality of the bingo engine. Additionally, creating and developing new in-house scheduling tool (both frontend & backend) for scheduling bingo games."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Worked on backend Bingo Engine built in Java 7, JavaEE, Spring Framework, JMS, DB2, ActiveMQ, JBoss."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Did backend development of Bingo games scheduling tool involved around a Java 8 Spring Boot MVC web application with JPA & Hibernate connecting to MySQL database"
+        [[params.experience.list.items]]
+        details = "Did frontend development of Bingo games scheduling tool which was made using ReactJS, Redux, Bootstrap, Jest, Webpack, ES6"
+        [[params.experience.list.items]]
+        details = "Development of a Proof-of-Concept (PoC) on establishing the data model of the bingo scheduling tool backend connecting to a NoSQL MongoDB datastore.Development of a Proof-of-Concept (PoC) on establishing the data model of the bingo scheduling tool backend connecting to a NoSQL MongoDB datastore."
+        [[params.experience.list.items]]
+        details = "Responsible for creating and running CI build jobs on various CI systems for different apps (Jenkins, Hudson, Bamboo, GoCD)"
+        [[params.experience.list.items]]
+        details = "Regular maintenance of database structure & data by writing & executing both Liquibase database migration scripts and adhoc SQL scripts"
+        [[params.experience.list.items]]
+        details = "Continuous monitoring application using a whole host of monitoring tools (AppDynamnics, ELK stack, Grafana, Splunk, Nagios)"
+        [[params.experience.list.items]]
+        details = "Actively engaging the Tagging of artifacts and liaising with Release Manager in releasing to Production on a bi-weekly release cycle."
+
 
         [[params.experience.list]]
         title = "Java Developer"
