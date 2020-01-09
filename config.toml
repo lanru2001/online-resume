@@ -258,9 +258,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Solarcentury"
         details = "Working in a small in-house development team developing an online task management & e-commmerce web portal for IKEA which was integrated into thier website. The developed system manages the lifecycles of solar panels from production to sales incl. allowing the public users to purchase solar panels online. Core activities resolved around doing backend Java development with minor frontend work."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Working on several backend features development of an online task management & e-commerce web portal."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Occasional frontend work (HTML, CSS, JS, JQuery) on a solar panel calculator tool which is integrated into IKEA's main website."
+        [[params.experience.list.items]]
+        details = "Help improve the team's agile development process, streamlining it in order to make it more efficient."
 
         [[params.experience.list]]
         title = "Software Engineer"
