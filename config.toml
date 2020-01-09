@@ -170,7 +170,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "A Senior Software/DevOps Engineer who specialises working on the AWS cloud with a strong varied development background in both backend + frontend. With a broad technical experience accumulated to date allowed me to apply my range of technical skills across numerous business domains. A Developer turned DevOps Engineer who is passionate about Infrastructure as Code, creating Pipeline as Code and a firm believer in close collaboration between Developers & Operators aiming to help bridge the gap and shorten the overall release cycle. An effective team member who is very hands-on and takes ownership of business & technical requirements taking them from concept right through to production."
+        text = "A Senior Software/DevOps Engineer who builds, tests, deploys, and runs applications/microservices on the AWS cloud. A strong varied development background in both backend + frontend and with a broad technical experience accumulated to date allowed me to apply my range of technical skills across numerous business domains. A Developer turned DevOps Engineer who is passionate about Infrastructure as Code, creating Pipeline as Code and a firm believer in close collaboration between Developers & Operators aiming to help bridge the gap and shorten the overall release cycle. An effective team member who is very hands-on and takes ownership of business & technical requirements taking them from concept right through to production."
 
 
 
@@ -268,23 +268,25 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2014 - 2015"
         company = "NHS Digital"
-        details = "Residing in a project team of 80+ people helping deliver a like-for-like replacement e-Referral Service (eRS) for the previous NHS online appointment booking system - Choose and Book (CAB). Working on the Data Migration stream, developing & testing the migration of production data from existing system's Oracle RDBMS to new system's PostgreSQL. "
+        details = "Residing in a project team of 80+ people helping deliver a like-for-like replacement e-Referral Service (eRS) for the previous NHS online appointment booking system - Choose and Book (CAB). Working on the Data Migration stream. "
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Developing & testing the migration of production data from existing system's Oracle RDBMS to new system's PostgreSQL."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Setting up and providing full test environments for data migration testing."
+        [[params.experience.list.items]]
+        details = "Assisting with functional testing of key systems feature."
 
         [[params.experience.list]]
         title = "Software Engineer"
         dates = "2014 - 2014"
         company = "NHS Digital"
-        details = "Within a 'DevOps' focused project team of 40+ people, assisting with the delivery of NHS Spine II which is a complete-rewrite of NHS's legacy backend integration messaging system (Spine I). Prioritization of automated peformance testing using Grinder (a Java Load Testing tool) with test scripts implemented using Jython (a Java implementation of Python). System monitoring and observation of system's performance using Splunk monitoring tool."
+        details = "Within a 'DevOps' focused project team of 40+ people, assisting with the delivery of NHS Spine II which is a complete-rewrite of NHS's legacy backend integration messaging system (Spine I)."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Application monitoring using monitoring tools like Splunk, observing application performance from charts and graphs."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Non functional testing of failing over key components of the system's architecture like killing Redis sentinel."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Prioritization of automated peformance testing using Grinder (a Java Load Testing tool) with test scripts implemented using Jython (a Java implementation of Python)."
 
         [[params.experience.list]]
         title = "Software Engineer"
@@ -310,16 +312,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Web Developer"
         dates = "2010 - 2011"
         company = "Mobile Velocity"
-        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey."
-        [[params.experience.list.items]]
-        details = "Developed client side of a mobile web application using a combination of various front end technologies - HTML5, CSS, JavaScript (JQuery, MooTools, Prototype.js), JSON, XML"
-        [[params.experience.list.items]]
-        details = "Actively engaged with a 3rd Party technology consortium which included a former W3C panel member for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
-        [[params.experience.list.items]]
-        details = "Developed custom server side content management platform using PHP via PHP frameworks using both Symfony & Codeigniter"
-        [[params.experience.list.items]]
-        details = "Designed and developed company’s website in HTML, successfully deployed on an Apache Web Server"
-
+        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey. I helped developed client side of a mobile web application using a combination of various front end technologies - HTML5, CSS, JavaScript (JQuery, MooTools, Prototype.js), JSON, XML. In addition, actively engaged with a 3rd Party technology consortium which included a former W3C panel member for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
+        
         [[params.experience.list]]
         title = "C# Developer"
         dates = "2009 - 2009"
