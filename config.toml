@@ -296,7 +296,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Web Developer"
         dates = "2010 - 2011"
         company = "Mobile Velocity"
-        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey. I helped developed client side of a mobile web application using a combination of various front end technologies - HTML5, CSS, JavaScript (JQuery, MooTools, Prototype.js), JSON, XML. In addition, actively engaged with a 3rd Party technology consortium which included a former W3C panel member for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
+        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey. I helped developed client side of a mobile web application using a combination of various front end technologies and actively engaged with a 3rd Party technology consortium which included a former W3C panel member for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
         
         [[params.experience.list]]
         title = "C# Developer"
