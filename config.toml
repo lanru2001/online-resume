@@ -40,15 +40,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
+        url = "tel:07588818156"
         text = "07588818156"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
+        url = "mailto:colin.but1@hotmail.co.uk"
         text = "colin.but1@hotmail.co.uk"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "#"
+        url = "www.colinbut.com"
         text = "www.colinbut.com"
 
 
