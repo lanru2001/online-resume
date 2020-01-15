@@ -76,17 +76,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Java/Python/JavaScript/React"
         
 
-        [[params.skills.list]]
-        title = "Professional"
-        [[params.skills.list.items]]
-        details = "Effective communication"
-        [[params.skills.list.items]]
-        details = "Team player"
-        [[params.skills.list.items]]
-        details = "Strong problem solver"
-        [[params.skills.list.items]]
-        details = "Good time management"
-
 
 
 
@@ -192,6 +181,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "General workflow automation using Python"
         [[params.experience.list.items]]
+        details = "Supporting apps in Docker containers on Kubernetes"
+        [[params.experience.list.items]]
         details = "CI/CD pipelines creation in Jenkins using Jenkins Declarative Pipelines"
         [[params.experience.list.items]]
         details = "Continuous Delivery practices proposals"
@@ -220,6 +211,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Advanced Routing with a Service Mesh in LinkerD for implemting Blue/Green Deployments"
         [[params.experience.list.items]]
         details = "Experimenting with Kotlin and CockRoachDB for new microservices"
+        [[params.experience.list.items]]
+        details = "Monitoring cloud-native microservices using SumoLogic"
 
 
         [[params.experience.list]]
@@ -232,13 +225,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Continuous monitoring application using a whole host of monitoring tools (AppDynamnics, ELK stack, Grafana, Splunk, Nagios)"
         [[params.experience.list.items]]
-        details = "Actively engaging the Tagging of artifacts and liaising with Release Manager in releasing to Production on a bi-weekly release cycle."
+        details = "Actively engaging the tagging of artifacts and liaising with Release Manager in releasing to Production on a bi-weekly release cycle."
         [[params.experience.list.items]]
         details = "Development of a Proof-of-Concept (PoC) on establishing the data model of the bingo scheduling tool backend connecting to a NoSQL MongoDB datastore.Development of a Proof-of-Concept (PoC) on establishing the data model of the bingo scheduling tool backend connecting to a NoSQL MongoDB datastore."
         [[params.experience.list.items]]
         details = "Regular maintenance of database structure & data by writing & executing both Liquibase database migration scripts and adhoc SQL scripts"
         [[params.experience.list.items]]
-        details = "Worked on backend Bingo Engine built in Java 7, JavaEE, Spring Framework, JMS, DB2, ActiveMQ, JBoss and on a bingo games scheduling tool (Java 8, Spring Boot, JPA, Hibernate, MySQL, MongoDB, ReactJS, Redux, Bootstrap, Jest, Enzyme, Webpack, ES6"
+        details = "Worked on backend Bingo Engine built in Java 7, JavaEE, Spring Framework, JMS, DB2, ActiveMQ, JBoss and on a bingo games scheduling tool (Java 8, Spring Boot, JPA, Hibernate, MySQL, MongoDB, ReactJS, Redux, Bootstrap, Jest, Enzyme, Webpack, ES6)"
         
 
         [[params.experience.list]]
