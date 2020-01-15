@@ -213,6 +213,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Experimenting with Kotlin and CockRoachDB for new microservices"
         [[params.experience.list.items]]
         details = "Monitoring cloud-native microservices using SumoLogic"
+        [[params.experience.list.items]]
+        details = "Application performance metrics measurements monitoring and observation using Prometheus and Grafana"
 
 
         [[params.experience.list]]
