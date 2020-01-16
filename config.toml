@@ -200,6 +200,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Doing Infrastructure as Code: coding Terraform configuration to provision AWS resources"
         [[params.experience.list.items]]
+        details = "AWS (EC2, ECS, EKS, ECR, RDS, S3, DynamoDB, Lambda, Cloudformation)"
+        [[params.experience.list.items]]
         details = "Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile"
         [[params.experience.list.items]]
         details = "Actively supporting Java Spring Boot microservices on Kubernetes"
