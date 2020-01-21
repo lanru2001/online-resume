@@ -65,11 +65,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "AWS Cloud"
         [[params.skills.list.items]]
-        details = "Jenkins CI/CD Pipelines"
+        details = "Docker/Kubernetes"
         [[params.skills.list.items]]
         details = "Terraform/Cloudformation"
         [[params.skills.list.items]]
-        details = "Docker/Kubernetes"
+        details = "Jenkins CI/CD Pipelines"
         [[params.skills.list.items]]
         details = "Ansible"
         [[params.skills.list.items]]
@@ -177,11 +177,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Credit Agricole, Corporate & Investment Bank"
         details = "Working in the CVA/CCC team to perform DevOps duties around the bank's core CVA trading applications that peforms trading simulations to manage credit risks of trades. In addition, assisting with the migration of legacy monolithic applications that was running on JBoss/Tomcat application servers/web containers to running on modern infrastructure, i.e. Docker containers operting within the Kubernetes cluster and providing adhoc bug fixes & business feature developments."
         [[params.experience.list.items]]
+        details = "Building apps in Docker containers on Kubernetes"
+        [[params.experience.list.items]]
         details = "Deployment automation using Ansible, Python"
         [[params.experience.list.items]]
         details = "General workflow automation using Python"
-        [[params.experience.list.items]]
-        details = "Supporting apps in Docker containers on Kubernetes"
         [[params.experience.list.items]]
         details = "CI/CD pipelines creation in Jenkins using Jenkins Declarative Pipelines"
         [[params.experience.list.items]]
@@ -202,9 +202,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "AWS (EC2, ECS, EKS, ECR, RDS, S3, DynamoDB, Lambda, Cloudformation)"
         [[params.experience.list.items]]
-        details = "Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile"
-        [[params.experience.list.items]]
         details = "Actively supporting Java Spring Boot microservices on Kubernetes"
+        [[params.experience.list.items]]
+        details = "Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile"
         [[params.experience.list.items]]
         details = "API integration with 3rd party services (Companies House, Due Diligence) for ‘onboarding’ a business customer onto 10x’s banking platform"
         [[params.experience.list.items]]
@@ -235,6 +235,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Regular maintenance of database structure & data by writing & executing both Liquibase database migration scripts and adhoc SQL scripts"
         [[params.experience.list.items]]
+        details = "Messaging with Google Pub/Sub integrating with Google BigTable, querying with Google BigQuery on GCP"
+        [[params.experience.list.items]]
         details = "Worked on backend Bingo Engine built in Java 7, JavaEE, Spring Framework, JMS, DB2, ActiveMQ, JBoss and on a bingo games scheduling tool (Java 8, Spring Boot, JPA, Hibernate, MySQL, MongoDB, ReactJS, Redux, Bootstrap, Jest, Enzyme, Webpack, ES6)"
         
 
@@ -244,11 +246,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Solarcentury"
         details = "Working in a small in-house development team developing an online task management & e-commmerce web portal for IKEA which was integrated into thier website. The developed system manages the lifecycles of solar panels from production to sales incl. allowing the public users to purchase solar panels online. Core activities resolved around doing backend Java development with minor frontend work."
         [[params.experience.list.items]]
-        details = "Working on several backend features development of an online task management & e-commerce web portal."
+        details = "Working on backend features development of an online task management & e-commerce web portal."
         [[params.experience.list.items]]
         details = "Occasional frontend work (HTML, CSS, JS, JQuery) on a solar panel calculator tool which is integrated into IKEA's main website."
         [[params.experience.list.items]]
-        details = "Help improve the team's agile development process, streamlining it in order to make it more efficient."
+        details = "Help improve the team's agile development process, streamlining it to make it more efficient."
 
         [[params.experience.list]]
         title = "Software Engineer"
@@ -292,13 +294,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2011 - 2014"
         company = "Bjss"
-        details = "A Software Engineer participating in different projects for multiple clients being involved in throughout the whole Software Development lifecycle (SDLC)."
+        details = "A Software Engineer participating in different projects for multiple clients. Involved throughout the whole Software Development lifecycle (SDLC) which includes development (new features, bug fixes), testing (functional & non-functioanl), operations"
 
         [[params.experience.list]]
         title = "Web Developer"
         dates = "2010 - 2011"
         company = "Mobile Velocity"
-        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey. I helped developed client side of a mobile web application using a combination of various front end technologies and actively engaged with a 3rd Party technology consortium which included a former W3C panel member for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
+        details = "An initial co-founder of the company where I lead the company's technical development through the initial stages of their journey. I helped developed client side of a mobile web application and actively engaged with a 3rd Party technology consortium (included a former W3C panel member) for a technical feasibility study in developing prototypes using emerging (at the time) HTML5 technology."
         
         [[params.experience.list]]
         title = "C# Developer"
