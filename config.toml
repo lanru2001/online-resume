@@ -173,6 +173,26 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "DevOps Engineer"
+        dates = "2020 - Present"
+        company = "n/a (Freelance)"
+        details = "Infrastructure provisioning using Terraform to provision AWS resources"
+        [[params.experience.list.items]]
+        details = "Automating deployment using Ansible to deploy to application AWS cloud platform"
+        [[params.experience.list.items]]
+        details = "Creating & Managing CI/CD Jenkins pipelines using both Declarative & Scripted Syntax based on Groovy DSL"
+        [[params.experience.list.items]]
+        details = "Developing Jenkins Shared Library in Groovy for encapsulating common pipeline code"
+        [[params.experience.list.items]]
+        details = "Creating Kubernetes cluster on AWS using AWS's managed Kubernetes Service (EKS)"
+        [[params.experience.list.items]]
+        details = "Creating Kubernetes definitions in manifests yaml files and applying them"
+        [[params.experience.list.items]]
+        details = "Working with Kubernetes Package Manager (Helm) to manage applications on Kubernetes"
+        [[params.experience.list.items]]
+        details = "Full Stack development of web app using React, Java, Spring Boot"
+
+        [[params.experience.list]]
+        title = "DevOps Engineer"
         dates = "2019 - 2020"
         company = "Credit Agricole, Corporate & Investment Bank"
         details = "Working in the CVA/CCC team to perform DevOps duties around the bank's core CVA trading applications that peforms trading simulations to manage credit risks of trades. In addition, assisting with the migration of legacy monolithic applications that was running on JBoss/Tomcat application servers/web containers to running on modern infrastructure, i.e. Docker containers operting within the Kubernetes cluster and providing adhoc bug fixes & business feature developments."
