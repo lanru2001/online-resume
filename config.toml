@@ -175,11 +175,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "DevOps Engineer"
         dates = "2020 - Present"
         company = "n/a (Freelance)"
+        [[params.experience.list.items]]
         details = "Infrastructure provisioning using Terraform to provision AWS resources"
         [[params.experience.list.items]]
-        details = "Automating deployment using Ansible to deploy to application AWS cloud platform"
+        details = "Automating deployment using Ansible to deploy the application onto AWS cloud platform"
         [[params.experience.list.items]]
-        details = "Creating & Managing CI/CD Jenkins pipelines using both Declarative & Scripted Syntax based on Groovy DSL"
+        details = "Creating CI/CD Jenkins pipelines using both Declarative & Scripted Syntax based on Groovy DSL"
         [[params.experience.list.items]]
         details = "Developing Jenkins Shared Library in Groovy for encapsulating common pipeline code"
         [[params.experience.list.items]]
