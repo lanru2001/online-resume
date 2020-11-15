@@ -63,7 +63,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "AWS Cloud"
+        details = "AWS, Azure, GCP"
         [[params.skills.list.items]]
         details = "Docker/Kubernetes"
         [[params.skills.list.items]]
