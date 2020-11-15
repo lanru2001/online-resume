@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Colin But online Resume</title>
-    <link>http://www.colinbut.com/online-resume/tags/</link>
+    <link>http://colinbut.github.io/online-resume/tags/</link>
     <description>Recent content in Tags on Colin But online Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.colinbut.com/online-resume/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://colinbut.github.io/online-resume/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
