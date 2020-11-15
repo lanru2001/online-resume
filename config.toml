@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://www.colinbut.com/online-resume/"
+baseURL = "http://colinbut.github.io/online-resume/"
 languageCode = "en"
 title = "Colin But online Resume"
 theme = "hugo-devresume-theme"
@@ -369,6 +369,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Certifications/Courses"
+        [[params.information.list.items]]
+        details = "2020 · Hashicorp Certified: Terraform Associate"
+        [[params.information.list.items]]
+        details = "2020 · DevOps Engineering on AWS
         [[params.information.list.items]]
         details = "2019 · AWS Certified Cloud Practitioner"
         [[params.information.list.items]]
