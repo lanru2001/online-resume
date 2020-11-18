@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://colinbut.github.io/online-resume/"
+baseURL = "https://colinbut.github.io/online-resume/"
 languageCode = "en"
 title = "Colin But online Resume"
 theme = "hugo-devresume-theme"
