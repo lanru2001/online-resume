@@ -389,6 +389,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Certifications/Courses"
         [[params.information.list.items]]
+        details = "2020 · Certified Jenkins Engineer 2020"
+        [[params.information.list.items]]
         details = "2020 · Hashicorp Certified: Terraform Associate"
         [[params.information.list.items]]
         details = "2020 · DevOps Engineering on AWS"
