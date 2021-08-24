@@ -25,7 +25,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Colin But"
-        tagline = "DevOps Engineer | AWS"
+        tagline = "Software DevOps/Cloud Engineer"
         avatar = "me_linkedin.png"
 
 
