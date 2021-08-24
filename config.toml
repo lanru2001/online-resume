@@ -71,6 +71,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Jenkins CI/CD Pipelines"
         [[params.skills.list.items]]
+        details = "GitHub Actions"
+        [[params.skills.list.items]]
         details = "Ansible"
         [[params.skills.list.items]]
         details = "Java/Python/JavaScript/React"
