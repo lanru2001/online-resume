@@ -180,17 +180,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Infrastructure development using Terraform and Ansible"
         [[params.experience.list.items]]
-        details = "Creating CI/CD pipelines with Github Actions & AWS CodeBuild"
+        details = "Creating CI/CD workflows using Github Actions & AWS CodeBuild"
         [[params.experience.list.items]]
-        details = "Development of a system that allows asynchronous SQL queries to be executed against Snowflake Data Warehouse using AWS native technologies (SAM, API Gateway, Cognito, Lambda, Cloudwatch, X-Ray, DynamoDB, Cloudformation)"
+        details = "Development of a system that allows asynchronous SQL queries to be executed against Snowflake Data Warehouse using AWS serverless technologies (SAM, API Gateway, Cognito, Lambda, Cloudwatch, X-Ray, DynamoDB, CloudFormation)"
+        [[params.experience.list.items]]
+        details = "Building and supporting an automated RBAC system for Snowflake Data Warehouse using AWS serverless technologies such as: SAM, API Gateway, Lambda, Step Functions, Cloudwatch, X-Ray, CloudFormation"
         [[params.experience.list.items]]
         details = "Managing a Cloudera Hadoop based Data Lake Platform"
         [[params.experience.list.items]]
-        details = "BAU SysOps Tasks involving AWS services (ACM, Route53, Directory Service, Workspaces, KMS)"
+        details = "BAU SysOps Tasks like OS Patcching, Identity Access Management, DNS configuration involving AWS services (ACM, Route53, Directory Service, Workspaces, KMS)"
         [[params.experience.list.items]]
         details = "General scripting using Python & Bash"
         [[params.experience.list.items]]
-        details = "Experimenting with ChatBots, external API integration with Chat System like Slack"
+        details = "ChatOps: External API integration with Chat System like Slack using ChatBots"
 
         [[params.experience.list]]
         title = "DevOps Engineer"
