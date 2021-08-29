@@ -431,7 +431,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "@Colin_But"
         [[params.social.list]]
         icon = "fab fa-medium"
-        url = "//medium.com/@Colin_But"
+        url = "//colin-but.medium.com/"
         title = "@Colin_But"
 
 
