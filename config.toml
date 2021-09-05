@@ -393,34 +393,34 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Certifications"
         [[params.information.list.items]]
+        details = "2021 · SQL (HackerRank)"
+        [[params.information.list.items]]
+        details = "2021 · Python (HackerRank)"
+        [[params.information.list.items]]
         details = "2020 · Certified Jenkins Engineer 2020"
         [[params.information.list.items]]
         details = "2020 · Hashicorp Certified: Terraform Associate"
         [[params.information.list.items]]
         details = "2019 · AWS Certified Cloud Practitioner"
-        [[params.information.list.items]]
-        details = "2017 · M101J: MongoDB for Java Developers"
-        [[params.information.list.items]]
-        details = "2017 · M001: MongoDB Basics"
         [[params.information.list.items]]
         details = "2014 · Oracle Certified Associate, Java SE 7 Programmer"
 
         [[params.information.list]]
         title = "Courses"
         [[params.information.list.items]]
-        details = "2020 · Certified Jenkins Engineer 2020"
+        details = "2021 · Systems Operations on AWS"
         [[params.information.list.items]]
-        details = "2020 · Hashicorp Certified: Terraform Associate"
+        details = "2021 · AWS Security Essentials"
+        [[params.information.list.items]]
+        details = "2021 · Architecting on AWS"
+        [[params.information.list.items]]
+        details = "2021 · Snowflake Data Engineering"
         [[params.information.list.items]]
         details = "2020 · DevOps Engineering on AWS"
-        [[params.information.list.items]]
-        details = "2019 · AWS Certified Cloud Practitioner"
         [[params.information.list.items]]
         details = "2017 · M101J: MongoDB for Java Developers"
         [[params.information.list.items]]
         details = "2017 · M001: MongoDB Basics"
-        [[params.information.list.items]]
-        details = "2014 · Oracle Certified Associate, Java SE 7 Programmer"
 
 
 
