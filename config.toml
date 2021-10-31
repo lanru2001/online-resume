@@ -135,11 +135,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
-
     [params.interests]
         enable = false
 
@@ -154,18 +149,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
-
-
     [params.summary]
         enable = true
         text = "A Senior Software/DevOps Engineer who builds, tests, deploys, and runs applications/microservices on the AWS cloud. A strong varied development background in both backend + frontend and with a broad technical experience accumulated to date allowed me to apply my range of technical skills across numerous business domains. A Developer turned DevOps Engineer who is passionate about Infrastructure as Code, creating Pipeline as Code and a firm believer in close collaboration between Developers & Operators aiming to help bridge the gap and shorten the overall release cycle. An effective team member who is very hands-on and takes ownership of business & technical requirements taking them from concept right through to production."
-
-
-
-
 
 
 
@@ -353,13 +339,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "A summer internship where I was in a small team of three fellow interns to work on an automation test suite for testing the functional features of the company's core suite of products which were a series of different applications that performs modelling for oil and gas energy simulations."
 
 
-
-
-
-
-
-
-
     [params.projects]
         enable = false
 
@@ -377,14 +356,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Sales Order System"
         meta = "Open Source"
         tagline = "Sales Order System is one of my earliest pet project of mine which originally spawn from an idea/application I worked on whilst working for Solarcentury. Project demontrates a very simple full stack Java Spring Boot application using JavaEE technologies in the backend with JSP serving up HTML, CSS, with JS, JQuery on the frontend."
-
-
-
-
-
-
-
-
 
 
     [params.information]
@@ -423,12 +394,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "2017 · M001: MongoDB Basics"
 
 
-
-
-
-
-
-
     [params.social]
         enable = true
 
@@ -448,8 +413,3 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-medium"
         url = "//colin-but.medium.com/"
         title = "@Colin_But"
-
-
-
-
-
